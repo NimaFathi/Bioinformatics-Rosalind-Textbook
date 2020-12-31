@@ -1,0 +1,4 @@
+3
+--AT-ATC--G-G
+---T---C-CGA-
+ATGTA--CT-G--
