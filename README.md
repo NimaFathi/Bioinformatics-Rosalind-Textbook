@@ -46,3 +46,26 @@ Solving Rosalind text book problems. [info](http://rosalind.info/problems/list-v
 * BA7D: Implement UPGMA [[info](http://rosalind.info/problems/ba7d/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter7/Implement%20UPGMA%20(BA7D))]
 * BA7E: Implement the Neighbor Joining Algorithm [[info](http://rosalind.info/problems/ba7e/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter7/Implement%20the%20Neighbor%20Joining%20Algorithm(B7AE))]
 * BA7G: Adapt SmallParsimony to Unrooted Trees [[info](http://rosalind.info/problems/ba7g/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter7/Small%20Persimony(BA7G))]
+
+### Chapter 8
+* BA8A: Implement FarthestFirstTraversal [[info](http://rosalind.info/problems/ba8a/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter8/Implement%20FarthestFirstTraversal(BA8A))]
+* BA8B: Compute the Squared Error Distortion [[info](http://rosalind.info/problems/ba8b/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter8/Compute%20the%20Squared%20Error%20Distortion%20(BA8B))]
+* BA8C: Implement the Lloyd Algorithm for k-Means Clustering [[info](http://rosalind.info/problems/ba8c/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter8/Implement%20the%20Lloyd%20Algorithm%20for%20K-Means%20Clustering%20(BA8C))]
+
+### Chapter 9
+* BA9B: Implement TrieMatching [[info](http://rosalind.info/problems/ba9b/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/TrieMatching(BA9B))]
+* BA9H: Pattern Matching with the Suffix Array [[info](http://rosalind.info/problems/ba9h/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/Pattern%20Matching%20With%20Suffix%20Array(BA9H))]
+* BA9I: Construct the Burrows-Wheeler Transform of a Strin [[info](http://rosalind.info/problems/ba9i/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/Construct%20Burrows-Wheeler%20Transform(BA9I))]
+* BA9K: Generate the Last-to-First Mapping of a String [[info](http://rosalind.info/problems/ba9k/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/Generate%20the%20Last-to-First%20Mapping%20of%20a%20String(BA9K))]
+* BA9L: Implement BWMatching [[info](http://rosalind.info/problems/ba9l/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/BWMatching(BA9L))]
+* BA9M: Implement BetterBWMatching [[info](http://rosalind.info/problems/ba9m/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/Implement%20BetterBWNatching(BA9M))]
+* BA9R: Construct a Suffix Tree from a Suffix Array [[info](http://rosalind.info/problems/ba9r/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter9/Construct%20a%20Suffix%20Tree%20from%20a%20Suffix%20Array%20(BA9R))]
+
+### Chapter 10
+* BA10B: Compute the Probability of an Outcome Given a Hidden Path [[info](http://rosalind.info/problems/ba10b/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter10/Probability%20of%20an%20Outcome%20Given%20a%20Hidden%20Path%20Problem%20(BA10B))]
+* BA10C: Implement the Viterbi Algorithm [[info](http://rosalind.info/problems/ba10c/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter10/Implement%20the%20Viterbi%20Algorithm%20(BA10C))]
+* BA10E: Construct a Profile HMM [[info](http://rosalind.info/problems/ba10e/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter10/Probability%20of%20an%20Outcome%20Given%20a%20Hidden%20Path%20Problem%20(BA10B))]
+* BA10F: Construct a Profile HMM with Pseudocounts [[info](http://rosalind.info/problems/ba10f/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter10/Construct%20a%20Profile%20HMM%20with%20Pseudocounts(Ba10F))]
+
+### Chapter 11
+* BA11J: Find a Highest-Scoring Modified Peptide against a Spectrum [[info](http://rosalind.info/problems/ba11j/)] [[code](https://github.com/NimaFathi/Bioinformatics/tree/main/BookProblems/Chapter11/Find%20a%20Highest-Scoring%20Modified%20Peptide%20against%20a%20Spectrum(BA11J))]
