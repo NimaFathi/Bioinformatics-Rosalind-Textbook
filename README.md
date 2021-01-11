@@ -5,6 +5,7 @@ Solving Rosalind text book problems. [info](http://rosalind.info/problems/list-v
 
 
 **[rosalind account](http://rosalind.info/users/96106741/)** 
+
 **[Linkedin](https://www.linkedin.com/in/nimafathi/)**
 
   I've solved many of rosalind text book problems in python. you can see navigation to each problems down here.
