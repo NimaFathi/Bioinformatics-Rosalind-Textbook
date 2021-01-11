@@ -5,4 +5,9 @@ Solving Rosalind text book problems. [info](http://rosalind.info/problems/list-v
 <br>
   I've solved many of rosalind text book problems in python. you can see navigation to each problems down here.
 ***
-problems & solutions:
+<img src="https://img.shields.io/badge/language-python+ruby-orange.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/counts-149-brightgreen.svg" style="zoom:100%;" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.rosalind-solutions" alt="visitor badge"/>
+
+** problems & solutions: **
+
+
